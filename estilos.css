@@ -24,7 +24,7 @@ nav a{
 	
 }
 nav a:hover{
-	color: rgba(0, 255, 255 );
+	color: rgba(117, 255, 71, 0.5 );
 }
 body{
 	font-family: "Arial"
@@ -67,7 +67,7 @@ th,td{
 }
 thead{
 	height: 50px;
-	background: rgba(119, 108, 38, 0.4);
+	background: rgba(117, 255, 71, 0.5);
 	text-align: center;
 	border-bottom: solid 6px;
 }
